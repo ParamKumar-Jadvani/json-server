@@ -345,15 +345,44 @@
       "category": "Beverage"
     }
   ],
+  "courses": [
+    {
+    "id": "cBwy_X8",
+    "name": "JEE",
+    "img": "https://images.hindustantimes.com/img/2023/01/11/1600x900/jee_main_2023_1673406172968_1673406173333_1673406173333.png",
+    "topic": "JEE",
+    "courseSubtopics": [
+      "Maths",
+      "Physics ",
+      "Chemistry "
+    ],
+    "price": "29999",
+    "seats": "50",
+    "createdAt": "2024-07-23T11:47:04.948Z",
+    "updatedAt": "2024-07-23T11:47:04.948Z",
+    "comments": [],
+    }
+  ],
   "users": [
     {
       "id": "852a",
       "name": "Graduate Gamer",
       "email": "kalathiyaneel4@gmail.com",
-      "password": "1234567890",
+      "password": "neel",
       "phone": "06351992466",
       "city": "Surat",
+      "role": "users",
+      "purchase": [],
       "cart":[]
+    }
+  ],
+  "admins": [
+    {
+      "id": "ddf6",
+      "name": "sanghani jigar ",
+      "email": "kalathiyaneel4@gmail.com",
+      "password": "neel",
+      "role": "admins"
     }
   ]
 }
